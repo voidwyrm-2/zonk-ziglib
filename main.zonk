@@ -1,0 +1,4 @@
+{zig-out/lib/zzonklib}
+"Hello there\0"
+$zzonklib
+@zputs
